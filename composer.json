@@ -1,4 +1,5 @@
 {
+    "name": "test/repo",
     "require": {
         "php": ">=5.3.3",
         "guzzle/guzzle": "~3.7"
